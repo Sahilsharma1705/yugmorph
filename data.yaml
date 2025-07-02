@@ -1,0 +1,11 @@
+names:
+- teddy bear
+- chips
+- laptop
+- pen
+- cold drink
+- book
+nc: 6
+test: D:/YugMorph/dataset/images/test
+train: D:/YugMorph/dataset/images/train
+val: D:/YugMorph/dataset/images/val
